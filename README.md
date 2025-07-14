@@ -42,7 +42,7 @@ The project uses the `highway-env` environment, which simulates realistic highwa
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/mbinary/6887064_reinforcement_learning.git
+git clone https://github.com/m-binary/6887064_reinforcement_learning.git
 cd 6887064_reinforcement_learning
 ```
 
