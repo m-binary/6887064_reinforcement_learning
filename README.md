@@ -8,6 +8,10 @@
 
 The reinforcement learning project implements a Double Deep Q-Network (DDQN) for autonomous highway driving simulation using OpenAI Gymnasium and Highway-Env.
 
+The following GIF showcases the performance of the trained DDQN agent navigating the highway environment:
+
+![Final Agent](final_agent.gif)
+
 ## Overview
 
 This project demonstrates the application of Deep Reinforcement Learning to autonomous driving in a highway environment. The agent learns to navigate traffic, change lanes safely, and maintain high speeds while avoiding collisions through trial and error interactions with the simulated environment.
